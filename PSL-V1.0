@@ -1,1 +1,186 @@
+# PaperStream License (PSL) v1.0
 
+**A copyleft license with a network clause, inspired by the GNU GPLv3 and AGPLv3**
+
+Copyright (C) [YEAR] [AUTHOR NAME]
+
+**Project:** [PROJECT NAME]
+**Description:** [Short description of the project, e.g. "A Paper/Minecraft plugin by ... for ..."]
+**Publisher/Organization:** [ORGANIZATION]
+
+---
+
+## 0. Preamble
+
+The PaperStream License (PSL) is a free software license. It is designed to guarantee that software released under it remains free for all users — free as in freedom, not necessarily free of charge. This means:
+
+- Anyone may run, study, modify, and share the program.
+- Anyone who distributes a modified or unmodified version of the program — including as an online service — must make the complete corresponding source code available under this license.
+- These obligations also apply when the software is not distributed as a file, but is only made available to use over a network (e.g. as a web application or API).
+
+This license is an independent work and is not an official GNU or Free Software Foundation text. It is modeled on the goals and effects of the GPLv3 and AGPLv3, but uses its own wording.
+
+**In short:** Anyone may use this license for their own projects and distribute unmodified copies of the license text. Anyone who modifies and distributes code licensed under the PSL must keep it under the PSL (that's the copyleft core). However, anyone who modifies the **license text itself** may not call the result "PaperStream License" (see Section 9).
+
+---
+
+## 1. Definitions
+
+1.1 **"Program"** means any work protected by copyright that is licensed under this License.
+
+1.2 **"Source Code"** means the preferred form of the Program for making modifications to it, including all build scripts, interface definitions, and associated data needed to install and run the Program.
+
+1.3 **"Modification"** means any copy or largely similar copy of the Program, whether unaltered or altered and/or translated into another language.
+
+1.4 **"Distribution"** means any act by which copies of the Program or derivative works are transferred to third parties, including sale, rental, lending, or gratuitous transfer.
+
+1.5 **"Network Use"** means making the Program or a derivative work available such that third parties can interact with it over a network (including the internet), for example as a web application, API, software-as-a-service (SaaS), or similar offering — regardless of whether a copy of the Program is transferred to the third party.
+
+1.6 **"Corresponding Source"** means the complete Source Code needed to generate, install, and (in the case of Network Use) run the Program, including all modifications.
+
+---
+
+## 2. Grant of Rights
+
+Subject to the terms of this License, the copyright holder grants you a worldwide, royalty-free, non-exclusive license to:
+
+a) run the Program for any purpose,
+b) study and modify the Program,
+c) distribute unmodified copies,
+d) distribute modified versions (Modifications),
+e) make Network Use of the Program or derivative works,
+
+each subject to the conditions set out below.
+
+---
+
+## 3. Copyleft Obligation (Source Disclosure upon Distribution)
+
+3.1 If you distribute the Program or a Modification of it, you must:
+
+a) include the complete Corresponding Source or make it available free of charge upon request,
+b) include this License and all copyright notices unchanged,
+c) license the Modification itself under the PaperStream License,
+d) clearly indicate that and which changes were made to the original work.
+
+3.2 It is not sufficient to distribute only binary files or compiled artifacts without providing the associated Source Code.
+
+---
+
+## 4. Network Clause (Copyleft for Online Use)
+
+4.1 If you make the Program or a Modification of it available via **Network Use**, this shall, for the purposes of this License, **be treated as Distribution** under Section 3.
+
+4.2 In that case, you must provide all users who interact with the Program over the network with a clearly visible way to download or otherwise obtain, free of charge, the complete Corresponding Source of the running version — including any modifications you have made.
+
+4.3 This obligation arises regardless of whether a copy of the Program is physically transferred to the user.
+
+4.4 Section 4.2 does not apply to purely internal use within a single legal entity or organization, provided the Program is not made accessible to any third party outside that organization.
+
+---
+
+## 5. Scope of Copyleft
+
+5.1 Every Modification, every work derived from it, and every work that contains or is built upon the Program or parts of it, is subject to this License in its entirety.
+
+5.2 If parts of the Program are combined with independent, standalone-executable code (e.g. via clearly separated process or network interfaces, but not via linking, embedding, or a shared address space), that independent code does not automatically count as a Modification, unless it was specifically designed to circumvent this License.
+
+5.3 In case of doubt, a combined work is considered a Modification if it is not meaningfully functional without the Program.
+
+---
+
+## 6. Patents
+
+6.1 Every contributor who contributes code to the Program hereby grants all recipients a royalty-free, worldwide license to its patent claims, to the extent necessary to use, modify, and distribute its contribution.
+
+6.2 Anyone who initiates legal action against another user or contributor for patent infringement by the Program automatically loses all rights granted under this License with respect to the Program.
+
+---
+
+## 7. No Additional Restrictions
+
+You may not add further conditions to this License that restrict the rights granted herein. Only additional notices (e.g. trademark notices) are permitted, provided they do not hinder the exercise of the granted rights.
+
+---
+
+## 8. Compatibility
+
+8.1 Program components licensed under GPLv3 or AGPLv3 may be combined with code under this License, provided the resulting combined work satisfies the conditions of both the PSL and the other license. In case of conflict, the stricter condition applies.
+
+8.2 In case of uncertainty regarding compatibility with another license, incompatibility shall be assumed until expressly clarified.
+
+---
+
+## 9. Modifying the License Text Itself
+
+9.1 This distinction is important: modifying the **Program** under the terms above is expressly permitted and encouraged. Modifying the **text of this License itself** is a separate matter, addressed here.
+
+9.2 You may copy and distribute verbatim copies of this License text.
+
+9.3 You may **not** distribute a modified version of this License text under the name "PaperStream License" or any confusingly similar name. If you create a modified version of this License text, you must:
+
+a) give it a different, clearly distinguishable name, and
+b) not state or imply that it is the official PaperStream License or that it is endorsed by the original authors or the organization named at the top of this document.
+
+9.4 This restriction applies only to the License **text**. It does not restrict what you may do with software licensed under this License, beyond what is stated in Sections 1–8.
+
+---
+
+## 10. Disclaimer of Warranty
+
+THE PROGRAM IS PROVIDED WITHOUT ANY WARRANTY, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.
+
+---
+
+## 11. Limitation of Liability
+
+IN NO EVENT SHALL ANY COPYRIGHT HOLDER OR CONTRIBUTOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE PROGRAM, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, BUSINESS INTERRUPTION, OR CONSEQUENTIAL DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, TO THE EXTENT PERMITTED BY LAW.
+
+---
+
+## 12. Termination
+
+12.1 Your rights under this License automatically terminate if you violate its terms and fail to cure the violation within 30 days of becoming aware of it.
+
+12.2 Upon termination, the rights of third parties who have lawfully received copies from you remain unaffected, as long as those third parties continue to comply with the License themselves.
+
+---
+
+## 13. Versions of this License
+
+The copyright holder of the respective Program may specify whether a particular version of the PaperStream License, or any later version, applies. In the absence of such a specification, the version under which the Program was originally published applies.
+
+---
+
+## 14. Miscellaneous
+
+14.1 If any provision of this License is held invalid, the validity of the remaining provisions shall not be affected. The invalid provision shall be replaced by a valid one that comes closest to its economic purpose.
+
+14.2 This License constitutes the entire agreement between the parties regarding the licensed Program, unless otherwise expressly agreed in writing.
+
+---
+
+## How to Apply the PaperStream License to Your Own Program
+
+To apply this License to a new program, attach the following notice to the beginning of each source file:
+
+```
+[Program Name] — [Short description, e.g. "A Paper plugin for ..."]
+Copyright (C) [Year] [Author Name]
+A [ORGANIZATION] project.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the PaperStream License (PSL) v1.0.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the PaperStream License for more details.
+
+A copy of the license should have been distributed with this program
+(see LICENSE.md). If not, see [LINK TO YOUR REPO]/LICENSE.md.
+```
+
+Also place this file as `LICENSE.md` in the root directory of each project. Fill in **[YEAR]**, **[AUTHOR NAME]**, **[PROJECT NAME]**, **[ORGANIZATION]**, and the **Description** at the top of the file individually for each project — this keeps a single license template reusable across all repositories.
+message.txt
+11 kB
