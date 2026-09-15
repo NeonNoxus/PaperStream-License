@@ -1,1 +1,160 @@
+# PaperStream Permissive License (PSPL) v1.0
 
+**A permissive license with mandatory attribution and a no-sale clause**
+
+Copyright (C) [YEAR] [AUTHOR NAME]
+
+**Project:** [PROJECT NAME]
+**Description:** [Short description of the project]
+**Publisher/Organization:** [ORGANIZATION]
+
+---
+
+## 0. Preamble
+
+The PaperStream Permissive License (PSPL) is a permissive software license. Unlike the PaperStream License (PSL), it does **not** require derivative works to be released under an open license or their source code to be disclosed. Instead, two core conditions apply:
+
+1. The original author or original project must be credited in every copy and every derivative work (mandatory attribution).
+2. The Program, copies of it, or derivative works may **not be sold**.
+
+This does not prevent generating revenue in other ways, such as through donations, paid support, or hosting fees (see Section 4).
+
+This license is an independent work and is not an official GNU, MIT, or Free Software Foundation text.
+
+**In short:** Anyone may freely use, modify, distribute, and even embed the Program in closed-source projects. Open source is not required. The only mandatory requirements are attribution and the prohibition on selling.
+
+---
+
+## 1. Definitions
+
+1.1 **"Program"** means any work protected by copyright that is licensed under this License.
+
+1.2 **"Modification"** means any copy or largely similar copy of the Program, unaltered, altered, and/or translated into another language, as well as any work that contains or is built upon the Program or substantial parts of it.
+
+1.3 **"Distribution"** means any act by which copies of the Program or a Modification are transferred to third parties, including as part of a larger work or product, and including over a network (e.g. download, app store, package manager, or provision as a service).
+
+1.4 **"Sale"** means any distribution of the Program, a copy of it, or a Modification in exchange for money or a monetary equivalent, where payment is required for the Program itself (or for access to it, or for possession of a copy). **Not a Sale** under this License, in particular: voluntary donations with no obligation attached, payment for support, maintenance, or consulting services related to the Program, and fees for hosting or operating an instance of the Program (e.g. server costs), as long as the software itself remains freely available.
+
+---
+
+## 2. Grant of Rights
+
+Subject to the terms of this License, the copyright holder grants you, free of charge, a worldwide, non-exclusive license to:
+
+a) run the Program for any purpose, private or commercial,
+b) study and modify the Program,
+c) create and distribute Modifications,
+d) incorporate the Program or parts of it into your own projects, including proprietary or closed-source projects,
+
+each subject to the conditions below. There is **no** obligation to disclose the source code of Modifications.
+
+---
+
+## 3. Mandatory Attribution
+
+3.1 Every copy or Modification of the Program that is distributed must retain a clearly visible notice crediting the original author or original project as specified at the top of this document. This notice must include at least:
+
+a) the name of the Program and the author/organization,
+b) an indication that the work (or parts of it) is based on the named original,
+c) a link or reference to the original source, where available.
+
+3.2 Where a graphical user interface, "About" screen, documentation, or comparable customary location exists, the notice must be placed there. For pure libraries/code components, a notice in the documentation, credits, or associated metadata (e.g. license file, package description) is sufficient.
+
+3.3 The notice may not be removed, obscured, or placed in a way that makes it practically undiscoverable to ordinary users.
+
+3.4 You may not create the impression that a Modification originates entirely from you if substantial parts were taken from the original Program.
+
+---
+
+## 4. No-Sale Clause
+
+4.1 The Program, unmodified copies of it, and Modifications of it may **not be sold** (see definition in Section 1.4).
+
+4.2 This also applies if the Program or a Modification is distributed only as part of a larger, paid product or bundle — in that case, the portion attributable to the Program must remain free of charge, and the Program may not be advertised as a purchase incentive or as part of the purchase price.
+
+4.3 Expressly permitted are:
+
+a) voluntary donations to the creator of a Modification, where payment is not a prerequisite for receiving the Program,
+b) offering paid support, customization, installation services, or consulting related to the Program,
+c) charging fees for hosting, server operation, or infrastructure on which the Program runs, as long as the software itself is not sold but remains freely accessible,
+d) advertising revenue in connection with providing the Program, provided the Program itself is not paid.
+
+4.4 In case of doubt: if a mandatory payment is required to obtain a functional copy of the Program itself, this constitutes a Sale and is not permitted under this License.
+
+---
+
+## 5. No Additional Restrictions
+
+You may not add further conditions to this License that restrict the rights granted in Section 2 beyond what is set out in Sections 3 and 4.
+
+---
+
+## 6. Disclaimer of Warranty
+
+THE PROGRAM IS PROVIDED WITHOUT ANY WARRANTY, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.
+
+---
+
+## 7. Limitation of Liability
+
+IN NO EVENT SHALL ANY COPYRIGHT HOLDER OR CONTRIBUTOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, TO THE EXTENT PERMITTED BY LAW.
+
+---
+
+## 8. Termination
+
+8.1 Your rights under this License automatically terminate if you violate its terms (in particular the no-sale clause or the attribution requirement) and fail to cure the violation within 30 days of becoming aware of it.
+
+8.2 Upon termination, the rights of third parties who have lawfully received copies from you remain unaffected, as long as those third parties continue to comply with the License themselves.
+
+---
+
+## 9. Modifying the License Text Itself
+
+9.1 You may copy and distribute verbatim copies of this License text, including for your own independent projects.
+
+9.2 You may **not** distribute a modified version of this License text under the name "PaperStream Permissive License" or any confusingly similar name. If you create a modified version of the text, you must give it a different, clearly distinguishable name and may not claim it is endorsed by the original authors or the named organization.
+
+---
+
+## 10. Miscellaneous
+
+10.1 If any provision of this License is held invalid, the validity of the remaining provisions shall not be affected.
+
+10.2 This License constitutes the entire agreement between the parties regarding the licensed Program, unless otherwise expressly agreed in writing.
+
+---
+
+## How to Apply the PaperStream Permissive License to Your Own Program
+
+Attach the following notice to the beginning of each source file:
+
+```
+[Program Name] — [Short description]
+Copyright (C) [Year] [Author Name]
+A [ORGANIZATION] project.
+
+This program is licensed under the PaperStream Permissive License
+(PSPL) v1.0. Use, modification, and distribution are freely permitted,
+including in closed-source/proprietary software — provided that
+attribution to the original author is retained and the program is
+not sold. See LICENSE.md for the full terms.
+
+A copy of the license should have been distributed with this program
+(see LICENSE.md). If not, see [LINK TO YOUR REPO]/LICENSE.md.
+```
+
+Place this file as `LICENSE.md` in the root directory of each project. Fill in **[YEAR]**, **[AUTHOR NAME]**, **[PROJECT NAME]**, **[ORGANIZATION]**, and the **Description** individually for each project.
+
+---
+
+## Quick Comparison: PSL vs. PSPL
+
+| | **PSL** (Copyleft) | **PSPL** (Permissive) |
+|---|---|---|
+| Source disclosure on distribution | Required | Not required |
+| Network use (SaaS) must disclose source | Yes | No |
+| Embedding in closed-source projects | No | Yes |
+| Attribution to original author | Not explicitly required | **Required** |
+| Selling the Program/Modifications | Not explicitly banned, but source must stay open regardless | **Explicitly banned** |
+| Donations/support/hosting fees | Allowed | Allowed |
