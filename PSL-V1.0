@@ -2,7 +2,9 @@
 
 **A copyleft license with a network clause, inspired by the GNU GPLv3 and AGPLv3**
 
-Copyright (C) [YEAR] [AUTHOR NAME]
+License text: Copyright (C) 2026 NeonNoxus and LucasTHCR. Verbatim copies permitted, see Section 9.
+
+Program: Copyright (C) [YEAR] [AUTHOR NAME]
 
 **Project:** [PROJECT NAME]
 **Description:** [Short description of the project, e.g. "A Paper/Minecraft plugin by ... for ..."]
@@ -52,13 +54,15 @@ e) make Network Use of the Program or derivative works,
 
 each subject to the conditions set out below.
 
+2.2 Each time you distribute the Program or a Modification, or make it available via Network Use, the recipient automatically receives a license from the original copyright holders (and from every contributor for their contributions) under the terms of this License. You may not impose any further restrictions on the recipient's exercise of these rights.
+
 ---
 
 ## 3. Copyleft Obligation (Source Disclosure upon Distribution)
 
 3.1 If you distribute the Program or a Modification of it, you must:
 
-a) include the complete Corresponding Source or make it available free of charge upon request,
+a) include the complete Corresponding Source, or accompany the distribution with a written offer, valid for at least three years and for as long as you distribute the Program, to provide the Corresponding Source free of charge (apart from reasonable shipping costs) to anyone who requests it,
 b) include this License and all copyright notices unchanged,
 c) license the Modification itself under the PaperStream License,
 d) clearly indicate that and which changes were made to the original work.
@@ -85,7 +89,7 @@ d) clearly indicate that and which changes were made to the original work.
 
 5.2 If parts of the Program are combined with independent, standalone-executable code (e.g. via clearly separated process or network interfaces, but not via linking, embedding, or a shared address space), that independent code does not automatically count as a Modification, unless it was specifically designed to circumvent this License.
 
-5.3 In case of doubt, a combined work is considered a Modification if it is not meaningfully functional without the Program.
+5.3 In case of doubt, whether a combined work is a Modification is determined by applicable copyright law. Works that contain copied or adapted portions of the Program are always Modifications.
 
 ---
 
@@ -105,9 +109,13 @@ You may not add further conditions to this License that restrict the rights gran
 
 ## 8. Compatibility
 
-8.1 Program components licensed under GPLv3 or AGPLv3 may be combined with code under this License, provided the resulting combined work satisfies the conditions of both the PSL and the other license. In case of conflict, the stricter condition applies.
+8.1 Code under permissive licenses that allow relicensing or inclusion in copyleft works (e.g. MIT, BSD-2-Clause, BSD-3-Clause, Apache License 2.0) may be included in a Program under this License, provided the notices and conditions of those licenses are retained.
 
-8.2 In case of uncertainty regarding compatibility with another license, incompatibility shall be assumed until expressly clarified.
+8.2 This License is **not** compatible with the GNU GPL or AGPL, because each of these licenses requires combined works to be licensed exclusively under its own terms. Code licensed only under the GPL or AGPL may therefore not be combined into a work under this License, and vice versa.
+
+8.3 The copyright holders of a Program may additionally offer it under other licenses, such as the GPLv3 or AGPLv3 (dual licensing). Only they can grant such permission; recipients may not do so on their own.
+
+8.4 In case of uncertainty regarding compatibility with another license, incompatibility shall be assumed until expressly clarified.
 
 ---
 
@@ -134,13 +142,15 @@ THE PROGRAM IS PROVIDED WITHOUT ANY WARRANTY, WHETHER EXPRESS OR IMPLIED, INCLUD
 
 ## 11. Limitation of Liability
 
-IN NO EVENT SHALL ANY COPYRIGHT HOLDER OR CONTRIBUTOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE PROGRAM, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, BUSINESS INTERRUPTION, OR CONSEQUENTIAL DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, TO THE EXTENT PERMITTED BY LAW.
+11.1 The copyright holders and contributors are liable without limitation for damages caused intentionally or through gross negligence, for injury to life, body, or health, for fraudulently concealed defects, and where liability is mandatory under applicable law (e.g. product liability law).
+
+11.2 Since the Program is provided free of charge, any further liability is excluded. IN PARTICULAR, TO THE EXTENT PERMITTED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR SHALL BE LIABLE FOR DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE PROGRAM, INCLUDING LOSS OF DATA, BUSINESS INTERRUPTION, OR CONSEQUENTIAL DAMAGES.
 
 ---
 
 ## 12. Termination
 
-12.1 Your rights under this License automatically terminate if you violate its terms and fail to cure the violation within 30 days of becoming aware of it.
+12.1 Your rights under this License automatically terminate if you violate its terms. They are reinstated if you cure the violation within 30 days after receiving notice of it from a copyright holder, or, if no such notice is given, within 30 days after the violation ends. Repeated violations after reinstatement terminate your rights permanently.
 
 12.2 Upon termination, the rights of third parties who have lawfully received copies from you remain unaffected, as long as those third parties continue to comply with the License themselves.
 
@@ -157,6 +167,8 @@ The copyright holder of the respective Program may specify whether a particular 
 14.1 If any provision of this License is held invalid, the validity of the remaining provisions shall not be affected. The invalid provision shall be replaced by a valid one that comes closest to its economic purpose.
 
 14.2 This License constitutes the entire agreement between the parties regarding the licensed Program, unless otherwise expressly agreed in writing.
+
+14.3 This License is governed by the laws of the Federal Republic of Germany, excluding the UN Convention on Contracts for the International Sale of Goods (CISG). Mandatory consumer protection provisions of the country in which a consumer has their habitual residence remain unaffected.
 
 ---
 
@@ -182,5 +194,3 @@ A copy of the license should have been distributed with this program
 ```
 
 Also place this file as `LICENSE.md` in the root directory of each project. Fill in **[YEAR]**, **[AUTHOR NAME]**, **[PROJECT NAME]**, **[ORGANIZATION]**, and the **Description** at the top of the file individually for each project — this keeps a single license template reusable across all repositories.
-message.txt
-11 kB

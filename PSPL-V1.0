@@ -2,7 +2,9 @@
 
 **A permissive license with mandatory attribution and a no-sale clause**
 
-Copyright (C) [YEAR] [AUTHOR NAME]
+License text: Copyright (C) 2026 NeonNoxus and LucasTHCR. Verbatim copies permitted, see Section 9.
+
+Program: Copyright (C) [YEAR] [AUTHOR NAME]
 
 **Project:** [PROJECT NAME]
 **Description:** [Short description of the project]
@@ -19,7 +21,7 @@ The PaperStream Permissive License (PSPL) is a permissive software license. Unli
 
 This does not prevent generating revenue in other ways, such as through donations, paid support, or hosting fees (see Section 4).
 
-This license is an independent work and is not an official GNU, MIT, or Free Software Foundation text.
+This license is an independent work and is not an official GNU, MIT, or Free Software Foundation text. Because of the no-sale clause it is a source-available license, not an open source license as defined by the Open Source Initiative.
 
 **In short:** Anyone may freely use, modify, distribute, and even embed the Program in closed-source projects. Open source is not required. The only mandatory requirements are attribution and the prohibition on selling.
 
@@ -33,7 +35,7 @@ This license is an independent work and is not an official GNU, MIT, or Free Sof
 
 1.3 **"Distribution"** means any act by which copies of the Program or a Modification are transferred to third parties, including as part of a larger work or product, and including over a network (e.g. download, app store, package manager, or provision as a service).
 
-1.4 **"Sale"** means any distribution of the Program, a copy of it, or a Modification in exchange for money or a monetary equivalent, where payment is required for the Program itself (or for access to it, or for possession of a copy). **Not a Sale** under this License, in particular: voluntary donations with no obligation attached, payment for support, maintenance, or consulting services related to the Program, and fees for hosting or operating an instance of the Program (e.g. server costs), as long as the software itself remains freely available.
+1.4 **"Sale"** means any distribution of the Program, a copy of it, or a Modification in exchange for money or a monetary equivalent, where payment is required for the Program itself (or for access to it, or for possession of a copy). **Not a Sale** under this License, in particular: voluntary donations with no obligation attached, payment for support, maintenance, or consulting services related to the Program, and fees for hosting or operating an instance of the Program (e.g. server costs), as long as the software itself remains freely available. Operating a server (e.g. a game server) that runs the Program and selling in-game items, ranks, or memberships is not a Sale of the Program, provided the Program itself is not offered for payment.
 
 ---
 
@@ -47,6 +49,8 @@ c) create and distribute Modifications,
 d) incorporate the Program or parts of it into your own projects, including proprietary or closed-source projects,
 
 each subject to the conditions below. There is **no** obligation to disclose the source code of Modifications.
+
+2.2 Each recipient of the Program or a Modification automatically receives a license from the original copyright holders under the terms of this License.
 
 ---
 
@@ -66,11 +70,15 @@ c) a link or reference to the original source, where available.
 
 ---
 
+3.5 **Passing on the conditions.** Whoever distributes the Program or a Modification must include this License text (or a link to it) and must bind every recipient to Sections 3 and 4. You may license your own additions to a Modification under terms of your choice, including proprietary terms, but those terms may not permit the recipient to sell the Program or the Modification or to remove the attribution.
+
+---
+
 ## 4. No-Sale Clause
 
 4.1 The Program, unmodified copies of it, and Modifications of it may **not be sold** (see definition in Section 1.4).
 
-4.2 This also applies if the Program or a Modification is distributed only as part of a larger, paid product or bundle — in that case, the portion attributable to the Program must remain free of charge, and the Program may not be advertised as a purchase incentive or as part of the purchase price.
+4.2 This also applies if the Program or a Modification is distributed as part of a larger, paid product or bundle. Such a distribution is only permitted if the Program (or the Modification) is also available to the recipient separately and free of charge, and the Program is not advertised as a reason to buy the product or as part of what the purchase price pays for.
 
 4.3 Expressly permitted are:
 
@@ -97,13 +105,15 @@ THE PROGRAM IS PROVIDED WITHOUT ANY WARRANTY, WHETHER EXPRESS OR IMPLIED, INCLUD
 
 ## 7. Limitation of Liability
 
-IN NO EVENT SHALL ANY COPYRIGHT HOLDER OR CONTRIBUTOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, TO THE EXTENT PERMITTED BY LAW.
+7.1 The copyright holders and contributors are liable without limitation for damages caused intentionally or through gross negligence, for injury to life, body, or health, for fraudulently concealed defects, and where liability is mandatory under applicable law (e.g. product liability law).
+
+7.2 Since the Program is provided free of charge, any further liability is excluded. IN PARTICULAR, TO THE EXTENT PERMITTED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR SHALL BE LIABLE FOR DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE PROGRAM, INCLUDING LOSS OF DATA, BUSINESS INTERRUPTION, OR CONSEQUENTIAL DAMAGES.
 
 ---
 
 ## 8. Termination
 
-8.1 Your rights under this License automatically terminate if you violate its terms (in particular the no-sale clause or the attribution requirement) and fail to cure the violation within 30 days of becoming aware of it.
+8.1 Your rights under this License automatically terminate if you violate its terms (in particular the no-sale clause or the attribution requirement) They are reinstated if you cure the violation within 30 days after receiving notice of it from a copyright holder, or, if no such notice is given, within 30 days after the violation ends. Repeated violations after reinstatement terminate your rights permanently.
 
 8.2 Upon termination, the rights of third parties who have lawfully received copies from you remain unaffected, as long as those third parties continue to comply with the License themselves.
 
@@ -122,6 +132,12 @@ IN NO EVENT SHALL ANY COPYRIGHT HOLDER OR CONTRIBUTOR BE LIABLE FOR ANY DAMAGES 
 10.1 If any provision of this License is held invalid, the validity of the remaining provisions shall not be affected.
 
 10.2 This License constitutes the entire agreement between the parties regarding the licensed Program, unless otherwise expressly agreed in writing.
+
+10.3 This License is governed by the laws of the Federal Republic of Germany, excluding the UN Convention on Contracts for the International Sale of Goods (CISG). Mandatory consumer protection provisions of the country in which a consumer has their habitual residence remain unaffected.
+
+10.4 Every contributor grants all recipients a royalty-free, worldwide license to its patent claims, to the extent necessary to use, modify, and distribute its contribution.
+
+10.5 Anyone who initiates legal action against another user or contributor for patent infringement by the Program automatically loses all rights granted under this License with respect to the Program.
 
 ---
 
@@ -155,6 +171,8 @@ Place this file as `LICENSE.md` in the root directory of each project. Fill in *
 | Source disclosure on distribution | Required | Not required |
 | Network use (SaaS) must disclose source | Yes | No |
 | Embedding in closed-source projects | No | Yes |
-| Attribution to original author | Not explicitly required | **Required** |
-| Selling the Program/Modifications | Not explicitly banned, but source must stay open regardless | **Explicitly banned** |
+| Attribution to original author | Copyright notices must be kept | **Required, visibly** |
+| Selling the Program/Modifications | Allowed, but source must stay open | **Banned** |
+| Patent grant | Yes | Yes |
+| OSI open source | Not approved, copyleft in spirit | No (source-available) |
 | Donations/support/hosting fees | Allowed | Allowed |
